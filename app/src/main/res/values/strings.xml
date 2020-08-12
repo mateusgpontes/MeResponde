@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">me_responde</string>
+    <string name="app_name">MeResponde</string>
+    <string name="digit_text">Digite o texto</string>
 </resources>
